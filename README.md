@@ -1,4 +1,4 @@
-#Hourglass implementation
+# Hourglass implementation
 ---------------
 - Paper: [Stacked Hourglass Networks for Human Pose Estimation.](https://arxiv.org/pdf/1603.06937.pdf) Alejandro Newell等
 - tensorflow slim 实现
